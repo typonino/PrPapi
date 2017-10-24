@@ -1,5 +1,5 @@
-# ProofPoint API Ruby Module
-A ruby module for interacting with ProofPoint's private API 
+# ProofPoint Threat Insight Dashboard API Ruby Module
+A ruby module for interacting with ProofPoint Threat Insight Dashboard API
 
 Proofpoint provides access to his customers to following ProofPoint APIs:
 * SIEM
