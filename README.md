@@ -23,7 +23,8 @@ Actual version supports only email analyzed by ProofPoint and not Url.
 ## API Usage
 
 ### SIEM API example
-```require 'proofpoint'
+```ruby
+require 'proofpoint'
 
 SERVICE_PRINCIPAL = "your service principal"
 SECRET = "your secret key"
@@ -58,7 +59,8 @@ end
 ```
 
 ### Forensics API example
-```require 'proofpoint'
+```ruby
+require 'proofpoint'
 
 SERVICE_PRINCIPAL = "your service principal"
 SECRET = "your secret key"
